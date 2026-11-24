@@ -1,0 +1,14 @@
+.gradle/
+.gradle-local/
+.kotlin/
+.tools/
+.impeccable/
+.taste-skill/
+.idea/
+**/build/
+local.properties
+wear/libs/*.aar
+*.iml
+captures/
+exports/
+__pycache__/
